@@ -1,0 +1,5 @@
+# Problem
+Nikita although confident about her formula had a slight doubt about the waste process and the effect it could have on the environment. She had a very close friend Pankaja who worked as a security consultant at SAP. Although Nikita wouldn't discuss confidential formula details with anyone outside of her company, she was discussing her idea at a high level with Pankaja, when Pankaja asked how would Nikita's idea handle the waste management especially if there is an accident, she couldn't get a proper answer from her. Pankaja was concerned and her thoughts were the exact same words as July's security tip of the month at her company. Flag that tip.
+
+# Solution
+This was pretty easy, I just opened the article for july shared by SAP which had the keyword `tip of the month`, and after trying 2-3 times tip was the heading of article.
