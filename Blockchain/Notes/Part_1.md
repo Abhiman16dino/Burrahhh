@@ -42,9 +42,6 @@
    - Blockchain comes in different forms, including **public**, **private**, and **consortium** blockchains. Understanding these distinctions is crucial.
 
 ---
-Here are the detailed notes from the provided text:
-
----
 
 ### **The Growth of Blockchain Technology**
 
