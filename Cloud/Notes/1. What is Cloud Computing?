@@ -1,0 +1,25 @@
+- **Definition of Cloud Computing**: 
+  - On-demand delivery of IT resources over the Internet.
+  - Pay-as-you-go pricing model.
+
+- **On-Demand Delivery**:
+  - Resources are available when needed without prior notification.
+  - Example: Launching 300 virtual servers or using 2,000 terabytes of storage instantly.
+
+- **Flexibility**:
+  - Users can return resources quickly and stop payments immediately.
+  - This flexibility is not achievable with traditional data centers.
+
+- **IT Resources Philosophy**:
+  - AWS offers a wide range of products to meet common business needs.
+  - Common IT tasks are considered "undifferentiated heavy lifting."
+
+- **Importance of Data**:
+  - The uniqueness of a business lies in how it manages its data, not in the tools used to manage it.
+
+- **Accessing Resources**:
+  - Resources can be accessed securely via a web console or programmatically.
+  - No need for additional contracts or sales calls.
+
+- **Pay-As-You-Go Pricing**:
+  - Similar to staffing a shop based on peak hours, businesses only pay for resources when they are in use.
