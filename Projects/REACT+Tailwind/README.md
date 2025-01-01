@@ -17,3 +17,7 @@ This project is an portfolio developed to try hands-on for learnings on REACT an
 - Achievements
 - Photo Gallary
 - Blogs
+
+# Initial Designs
+1. Landing Page
+    - Thinking to create a eye catch background and scene with a monk in between with chakras all around that directs to various pages
